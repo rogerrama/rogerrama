@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technology like AI and automation.
 - 🌱 I’m currently learning Python as a legit beginner.
 - 💞️ I’m looking to collaborate on people that I learn from and contribute to tech world.
-- 📫 You can reach me in my email <subscribe.rogerrama@gmail>
+- 📫 You can reach me in my email <subscribe.rogerrama@gmail.com>
 Thank you so much!
 
 <!---
